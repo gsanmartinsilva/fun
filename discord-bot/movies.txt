@@ -1,4 +1,3 @@
-12 monos
 American Beauty
 Arrival
 Black Hawk Down
@@ -14,7 +13,9 @@ Perros de la calle
 Jhon malkovich
 Harvey Birdman
 Magnolia
+Ex-Machina
 Raw
 La naranja mecanica 
 Trainspotting 2
 Full metal Jacket
+Danilo
