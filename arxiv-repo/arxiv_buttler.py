@@ -42,4 +42,4 @@ for f in files:
 	file_name = f.split(".pdf")[0]
 	if should_be_formatted(file_name):
 		data = query_paper(file_name)
-		os.rename(f'{os.path.join(folder_in, file_name)}.pdf',f'{os.path.join(folder_out, name_format(data["author"], data["title"], data["year"]))}.pdf') 
+		os.rename(f'{os.path.join(folder_in, file_name)}.pdf',f'{os.path.join(folder_out, name_format(data["author"], data["title"], data["year"]))}') 
